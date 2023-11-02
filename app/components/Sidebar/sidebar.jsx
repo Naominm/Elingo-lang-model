@@ -33,6 +33,7 @@ function Sidebar() {
             </div>
           </div>
         </div>
+        
         <div className="mt-auto">
           <div className="text-white font-bold mb-5">Translate it to your lingo</div>
         </div>
