@@ -64,7 +64,6 @@ function MainSection() {
           <div className="ml-0 mt-2 w-[40px] h-[40px] bg-blue-500 rounded-[10px] shadow-lg inline-flex gap-[18.36px] pl-[10px] pr-0 py-[10px] items-center">
   <FaPaperPlane className="text-white text-xl" />
 </div>
-
         </div>
         <div className="py-2 w-[100%] flex items-center justify-center">
           <div className="w-[210px] h-[18px] text-center">
